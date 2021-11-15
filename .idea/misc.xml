@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.23489583333333333" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/ic_baseline_favorite_24.xml" value="0.2359375" />
+        <entry key="app/src/main/res/drawable/ic_baseline_favorite_border_24.xml" value="0.2323076923076923" />
+        <entry key="app/src/main/res/drawable/ic_baseline_share.xml" value="0.18854166666666666" />
+        <entry key="app/src/main/res/drawable/ic_baseline_share_24.xml" value="0.2323076923076923" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_news.xml" value="0.2046875" />
+        <entry key="app/src/main/res/drawable/ic_search.xml" value="0.2046875" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.1587317376891492" />
+        <entry key="app/src/main/res/layout/fragment_favorites.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/fragment_full_news.xml" value="0.19972826086956522" />
+        <entry key="app/src/main/res/layout/fragment_news.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/news_item.xml" value="0.2340160875525734" />
+        <entry key="app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
